@@ -1,0 +1,26 @@
+# IndividualProject_2021_Mayank.Srivastava
+Final Year Project Repository
+Solving puzzle with AI
+
+use VS code or other similar editor to load the project
+
+install python libraries through pip/conda which are  tensorflow, numpy, opencv, keras, matplotlib, pygame
+
+Locate to the sudoku directory which is IndividualProject_2021_Mayank.Srivastava\Sudoku
+
+run:
+
+sh application.sh
+
+then follow the instruction on the screen.
+
+Step 1: Choose Image you want to solve and then Close the window
+
+Step 2: Then you will se a unsolved sudoku grid on your screen after image processing. If you want to make any changes, click on the grid you want to change and then click the number
+
+Step 3: Once you have made your changes, close the window.
+
+Now you will see the solved sudoku on your screen
+
+
+
